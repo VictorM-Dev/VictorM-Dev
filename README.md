@@ -28,7 +28,3 @@ Gosto de entender o sistema do zero até a produção, por isso também domino f
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 </div>
 
-### 📊 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorM-Dev&layout=compact&theme=dracula&hide=html,css,jupyter%20notebook)
-
