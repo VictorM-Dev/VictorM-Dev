@@ -28,8 +28,7 @@ Gosto de entender o sistema do zero até a produção, por isso também domino f
   <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 </div>
 
-### 📊 Linguagens mais usadas nos meus repositórios
+### 📊 Linguagens mais usadas
 
-<div style="display: flex; justify-content: center; margin: 50px 0; background-color: #2d2d2d; border-radius: 16px; backdrop-filter: blur(12px); border: 1px solid #444;">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorM-Dev&layout=compact&theme=dracula&hide_border=true&langs_count=8&bg_color=00000000&hide=html,css,jupyter%20notebook&card_width=500" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorM-Dev&layout=compact&theme=dracula&hide=html,css,jupyter%20notebook)
+
