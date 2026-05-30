@@ -7,8 +7,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Olá! Sou acadêmico de Ciência da Computação na UEPB e atualmente estagiário full-stack na *AIR Learning* concentro meus estudos no ecossistema
-*JavaScript/TypeScript*, com foco no desenvolvimento de aplicações modernas utlizando *NestJS, Node.js e React*.
+Olá! Sou acadêmico de Ciência da Computação na UEPB e atualmente estagiário full-stack na *AIR Learning*. 
+
+Concentro meus estudos no ecossistema *JavaScript/TypeScript*, com foco no desenvolvimento de aplicações modernas utlizando *NestJS, Node.js e React*.
 
 Tenho interesse em desenvolvimento back-end, arquitetura de software, APIs REST, banco de dados e boas práticas de engenharia
 de software. Busco evoluir constantemente projetos que me permitam compreender todo o ciclo de desenvolvimento de uma aplicação.
