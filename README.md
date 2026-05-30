@@ -3,8 +3,9 @@
 **`Acadêmico em Ciência da Computação - UEPB`**  
 **`Desenvolvedor Full Stack em formação`**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 Olá! Sou acadêmico de Ciência da Computação na UEPB e atualmente estagiário full-stack na *AIR Learning*. 
