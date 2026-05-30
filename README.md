@@ -1,6 +1,7 @@
 # João Victor
 
 **`Acadêmico em Ciência da Computação - UEPB`**
+
 **`Estagiário Full Stack na AIR Learning`**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
